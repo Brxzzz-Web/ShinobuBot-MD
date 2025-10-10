@@ -46,7 +46,7 @@ async function handler(m, { conn: stars, usedPrefix }) {
     responseMessage += `✞ Estado:\n> ⤿ 🔢 Total conectados: *${totalUsers}*\n> ⤿ 🟢 Espacios disponibles: *${availableSlots}*\n\nᥫ᭡ Nota:\n> ⤿ Hay demasiados subbots conectados.\n> ⤿ _No se muestra la lista detallada._`
   }
 
-  responseMessage += `\n\n❀ *sʜɪɴᴏᴅᴇᴠ:*sʜɪɴᴏʙᴜ-ᴏғᴄ ✿`
+  responseMessage += `\n\n❀ *sʜɪɴᴏᴅᴇᴠ:* sʜɪɴᴏʙᴜ-ᴏғᴄ ✿`
 
   const imgDir = path.resolve('./src/img')
   let images = []
