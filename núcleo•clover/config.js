@@ -36,22 +36,22 @@ global.blackJadibts = true;
 
 //*─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─*
 global.packsticker = `
-  𝕭𝖑𝖆𝖈𝖐 𝕮𝖑𝖔𝖛𝖊𝖗 ✞ ᚲ`;
+  sʜɪɴᴏʙᴜ-ᴏғɪᴄɪᴀʟ ᚲ`;
 
-global.packname = '𝕭𝖑𝖆𝖈𝖐 𝕮𝖑𝖔𝖛𝖊𝖗 ☘';
+global.packname = 'sʜɪɴᴏʙᴜ-ʙᴏᴛ ᴏғᴄ';
 
 global.author = `
 ⇝ 📆 ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}
 ⇝ ⏰ ${moment.tz('America/Los_Angeles').format('HH:mm:ss')}
 ♾━━━━━━━━━━━━━━━♾`;
 //*─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─*
-global.wm = '𝕭𝖑𝖆𝖈𝖐 𝕮𝖑𝖔𝖛𝖊𝖗 ☘';
-global.titulowm = '𝕭𝖑𝖆𝖈𝖐 𝕮𝖑𝖔𝖛𝖊𝖗 ☘';
-global.igfg = 'ᥫ𝐓𝐇𝐄 𝐂𝐀𝐑𝐋𝐎𝐒'
-global.botname = '𝕭𝖑𝖆𝖈𝖐 𝕮𝖑𝖔𝖛𝖊𝖗 ☘'
-global.dev = '© ⍴᥆ᥕᥱrᥱძ ᑲᥡ the Legends ⚡'
-global.textbot = '𝑩𝑳𝑨𝑪𝑲 𝑪𝑳𝑶𝑽𝑬𝑹  : 𝐓𝐇𝐄 𝐂𝐀𝐑𝐋𝐎𝐒'
-global.gt = '͟͞𝕭𝖑𝖆𝖈𝖐 𝕮𝖑𝖔𝖛𝖊𝖗 ☘͟͞';
+global.wm = 'sʜɪɴᴏʙᴜ-ʙᴏᴛ ᴏғᴄ';
+global.titulowm = 'sʜɪɴᴏʙᴜ-ʙᴏᴛ ᴏғᴄ';
+global.igfg = ❀⃟𝑺𝒉𝒊𝒏𝒐𝒃𝒖-𝑶𝒇𝒄'
+global.botname = '⏤͟͟͞͞sʜɪɴᴏʙᴜ-ʙᴏᴛ ᴏғᴄ⏤͟͟͞͞❀'
+global.dev = '© ᴘᴏᴡᴇʀᴇᴅ ʙʏ sʜɪɴᴏʙᴜ ᴏғᴄ ❀'
+global.textbot = 'sʜɪɴᴏʙᴜ, ᴍᴀᴅᴇ ᴡʜɪᴛᴇ ʙʏ sʜɪɴᴏʙᴜ-ᴏғᴄ'
+global.gt = '𝑺𝒉𝒊𝒏𝒐𝒃𝒖-𝒐𝒇𝒄';
 global.namechannel = '𝑩𝑳𝑨𝑪𝑲 𝑪𝑳𝑶𝑽𝑬𝑹 / 𝐓𝐇𝐄 𝐂𝐀𝐑𝐋𝐎𝐒'
 // Moneda interna
 global.monedas = 'monedas';
