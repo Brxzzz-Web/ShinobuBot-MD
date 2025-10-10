@@ -55,12 +55,12 @@ let rtx =
 🧿 *Tu energía quedará vinculada al Grimorio principal*`
 
 let rtx2 =
-`˚₊·✞『 𝗕𝗹𝗮𝗰𝗸 𝗖𝗹𝗼𝘃𝗲𝗿 - 𝗦𝘂𝗯 𝗕𝗼𝘁 』✞·—̳͟͞͞₊˚  
+`𝑺𝒆𝒓𝑩𝒐𝒕-𝑪𝒐𝒅𝒆 𝟖 𝑫𝒊́𝒈𝒊𝒕𝒐𝒔
  
 ✰ *Usa este Código para convertirte en un *Sub-Bot* Temporal.*  
 
 ✿ *Este Código Solo Es Funcional Para El Número De Teléfono En El Que Solicitaste.*  
-✿ *No uses tu cuenta principal, emplea una réplica espiritual o una forma secundaria.*  
+✿ *No es recomendable usar tu cuenta principal.*  
 
 🧿 *SISTEMA ➤ [ CÓDIGO ACTIVO ] — Activa el vínculo cuando estés preparado* ⚔️`
 
