@@ -30,14 +30,14 @@ async function handler(m, { conn: stars, usedPrefix }) {
   let responseMessage = `˚₊·—̳͟͞͞✞ *Subbots Black-clover-MD 🥷🏻*\n\n`
 
   if (totalUsers === 0) {
-    responseMessage += `✞ Estado:\n> ⤿ No hay *subbots conectados* por ahora.\n\n✞ Información:\n> ⤿ 🟢 Espacios disponibles: *${availableSlots}*`
+    responseMessage += `❀ Estado:\n> ⤿ No hay *subbots conectados* por ahora.\n\n✞ Información:\n> ⤿ ✿ Espacios disponibles: *${availableSlots}*`
   } else if (totalUsers <= 15) {
     const listado = users
       .map((v, i) => {
         const num = v.user.jid.replace(/[^0-9]/g, '')
-        const nombre = v?.user?.name || v?.user?.pushName || '👤 Sub-Bot'
+        const nombre = v?.user?.name || v?.user?.pushName || '❐ Sub-Bot'
         const waLink = `https://wa.me/${num}?text=${usedPrefix}code`
-        return `✞ Subbot #${i + 1}\n> ⤿ 👾 @${num}\n> ⤿ 🌐 ${waLink}\n> ⤿ 🧠 ${nombre}`
+        return `❍ Subbot #${i + 1}\n> ⤿ ☄︎ @${num}\n> ⤿ ❖ ${waLink}\n> ⤿ ✐ ${nombre}`
       })
       .join('\n\n')
 
@@ -46,7 +46,7 @@ async function handler(m, { conn: stars, usedPrefix }) {
     responseMessage += `✞ Estado:\n> ⤿ 🔢 Total conectados: *${totalUsers}*\n> ⤿ 🟢 Espacios disponibles: *${availableSlots}*\n\nᥫ᭡ Nota:\n> ⤿ Hay demasiados subbots conectados.\n> ⤿ _No se muestra la lista detallada._`
   }
 
-  responseMessage += `\n\n📂 *Creador del Bot:* The Carlos 👑`
+  responseMessage += `\n\n❀ *sʜɪɴᴏᴅᴇᴠ:*sʜɪɴᴏʙᴜ-ᴏғᴄ ✿`
 
   const imgDir = path.resolve('./src/img')
   let images = []
