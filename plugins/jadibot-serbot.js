@@ -62,7 +62,7 @@ let rtx2 =
 ✿ *Este Código Solo Es Funcional Para El Número De Teléfono En El Que Solicitaste.*  
 ✿ *No es recomendable usar tu cuenta principal.*  
 
-✿ *𝖳𝗎 𝖢𝗈́𝖽𝗂𝗀𝗈 𝖣𝖾 𝟪 𝖣𝗂́𝗀𝗂𝗍𝗈𝗌 𝖤𝗌 𝖤𝗅 𝖲𝗂𝗀𝗎𝗂𝖾𝗇𝗍𝖾:*❀`
+✿ *𝖳𝗎 𝖢𝗈́𝖽𝗂𝗀𝗈 𝖣𝖾 𝟪 𝖣𝗂́𝗀𝗂𝗍𝗈𝗌 𝖤𝗌 𝖤𝗅 𝖲𝗂𝗀𝗎𝗂𝖾𝗇𝗍𝖾:*
 
 const maxSubBots = 500
 
