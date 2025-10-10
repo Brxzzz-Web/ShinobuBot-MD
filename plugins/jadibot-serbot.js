@@ -44,7 +44,7 @@ let drm1 = ""
 let drm2 = ""
 
 let rtx =
-`𝑪𝒐́𝒅𝒊𝒈𝒐 𝑸𝒓 𝑫𝒆 𝑽𝒊𝒏𝒄𝒖𝒍𝒂𝒄𝒊𝒐́𝒏
+`˚₊·✞『 𝗕𝗹𝗮𝗰𝗸 𝗖𝗹𝗼𝘃𝗲𝗿 - 𝗦𝘂𝗯 𝗕𝗼𝘁 』✞·—̳͟͞͞₊˚  
 
 📲 *Escanea el Grimorio QR desde tu WhatsApp:*  
 ⋮ > *Dispositivos vinculados* > *Escanear código*  
@@ -55,14 +55,14 @@ let rtx =
 🧿 *Tu energía quedará vinculada al Grimorio principal*`
 
 let rtx2 =
-`𝑺𝒆𝒓𝑩𝒐𝒕-𝑪𝒐𝒅𝒆 𝟖 𝑫𝒊́𝒈𝒊𝒕𝒐𝒔
+`˚₊·✞『 𝗕𝗹𝗮𝗰𝗸 𝗖𝗹𝗼𝘃𝗲𝗿 - 𝗦𝘂𝗯 𝗕𝗼𝘁 』✞·—̳͟͞͞₊˚  
  
-✰ *Usa este Código para convertirte en un *Sub-Bot* Temporal.*  
+🜲 *Usa este Código Espiritual para convertirte en un ✧ Sub-Bot Temporal bajo el contrato del Reino de las Sombras.*  
 
-✿ *Este Código Solo Es Funcional Para El Número De Teléfono En El Que Solicitaste.*  
-✿ *No es recomendable usar tu cuenta principal.*  
+⏳ *Atención, Guerrero de las Sombras:* este vínculo es delicado.  
+⚠️ *No uses tu cuenta principal, emplea una réplica espiritual o una forma secundaria.*  
 
-✿ *𝖳𝗎 𝖢𝗈́𝖽𝗂𝗀𝗈 𝖣𝖾 𝟪 𝖣𝗂́𝗀𝗂𝗍𝗈𝗌 𝖤𝗌 𝖤𝗅 𝖲𝗂𝗀𝗎𝗂𝖾𝗇𝗍𝖾:*
+🧿 *SISTEMA ➤ [ CÓDIGO ACTIVO ] — Activa el vínculo cuando estés preparado* ⚔️`
 
 const maxSubBots = 500
 
@@ -99,12 +99,12 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
   if (subBotsCount >= maxSubBots) {
     return m.reply(`❌ No se han encontrado espacios para *Sub-Bots* disponibles.`)
   }
-  
+
   const availableSlots = maxSubBots - subBotsCount
 
    //No tocar 
   // await m.reply(`🤖 *Sub-Bots conectados:* ${subBotsCount} / ${maxSubBots}\n🟢 *Espacios disponibles:* ${availableSlots}`)
-  
+
   let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender
   let id = `${who.split('@')[0]}`
   let pathblackJadiBot = path.join(process.cwd(), 'núcleo•clover', 'blackJadiBot', id)
@@ -112,7 +112,7 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
   if (!fs.existsSync(pathblackJadiBot)) {
     fs.mkdirSync(pathblackJadiBot, { recursive: true })
   }
-  
+
   blackJBOptions.pathblackJadiBot = pathblackJadiBot
   blackJBOptions.m = m
   blackJBOptions.conn = conn
@@ -124,7 +124,7 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
   await blackJadiBot(blackJBOptions)
 
   global.db.data.users[m.sender].Subs = new Date() * 1
-  
+
     //No tocar 
   // await m.reply(`🥷🏻 Gracias por ser parte de la familia Black Clover ⚔️`)
 }
