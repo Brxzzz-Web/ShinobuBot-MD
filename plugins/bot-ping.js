@@ -41,7 +41,7 @@ var handler = async (m, { conn }) => {
     let texto = `❀ *Ping del Bot ❀*\n\n` +
                 `❐ Velocidad:\n> ⤿ ${latensi.toFixed(4)} ms\n\n` +
                 `➣ Actividad:\n> ⤿ ${muptime}\n\n` +
-                `✞ Chats:\n> ⤿ ${chats.length} Chats privados\n> ⤿ ${groups.length} Grupos\n\n` +
+                `❍ Chats:\n> ⤿ ${chats.length} Chats privados\n> ⤿ ${groups.length} Grupos\n\n` +
                 `✧ Servidor:\n> ⤿ RAM: ${format(totalmem() - freemem())} / ${format(totalmem())}\n\n` +
                 `✿ Información en tiempo real`
 
