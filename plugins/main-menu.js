@@ -36,7 +36,7 @@ const defaultMenu = {
 header: '\n╭═𓊈 ❀ %category 𓊉═╮',
   body: '║ ꕥ⃟ ❀ %cmd\n',
   footer: '╰════════════════╯',
-  after: '\n⌬ 𝗖𝗬𝗕𝗘𝗥 𝗠𝗘𝗡𝗨 ☠️ - Sistema ejecutado con éxito.'
+  after: '\n❀ 𝑺𝒉𝒊𝒏𝒐𝒃𝒖-𝑩𝒐𝒕 𝑶𝒇𝒊𝒄𝒊𝒂𝒍 ❀'
 }
 
 let handler = async (m, { conn, usedPrefix: _p }) => {
