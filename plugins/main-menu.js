@@ -26,7 +26,6 @@ const defaultMenu = {
 ║ 🌐 𝙈𝙤𝙙𝙚      » %mode  
 ║ ⏳ 𝘼𝙘𝙩𝙞𝙫𝙤   » %muptime  
 ║ 👥 𝙐𝙨𝙪𝙖𝙧𝙞𝙤𝙨 » %totalreg  
-
 ╚═══ ೋღ ❀ ღೋ ═══╝
 
 ❀⃟ ᴀǫᴜɪ́ ᴛɪᴇɴᴇs ʟᴏs ᴄᴏᴍᴀɴᴅᴀɴᴅᴏs:  
