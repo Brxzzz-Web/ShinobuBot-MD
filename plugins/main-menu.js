@@ -33,7 +33,7 @@ const defaultMenu = {
 `.trimStart(),
 
 header: '\n╭─〔 🦠 %category 〕─╮',
-  body: '│ ⚙️ %cmd\n',
+  body: '│ ❀ %cmd\n',
   footer: '╰────────────────╯',
   after: '\n⌬ 𝗖𝗬𝗕𝗘𝗥 𝗠𝗘𝗡𝗨 ☠️ - Sistema ejecutado con éxito.'
 }
