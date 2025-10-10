@@ -67,7 +67,7 @@ async function handler(m, { conn: stars, usedPrefix }) {
         mentions: [...new Set((responseMessage.match(/@(\d{5,16})/g) || []).map(v => v.replace('@', '') + '@s.whatsapp.net'))],
         contextInfo: {
           externalAdReply: {
-            title: "˚₊·—̳͟͞͞✞ Subbots activos",
+            title: "⏤͟͟͞͞❀ Subbots activos",
             body: "Subbots en tiempo real ",
             mediaType: 1,
             renderLargerThumbnail: false, 
