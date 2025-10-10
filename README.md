@@ -12,7 +12,7 @@
 
 ![line](https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif)
 
-<h1 align="center">Black - Clover</h1>
+<h1 align="center">❀ 𝑺𝒉𝒊𝒏𝒐𝒃𝒖 ❀</h1>
 <p align="center">
   <img src="https://files.catbox.moe/pl4542.jpg" width="300" alt="Black Clover">
 </p>
