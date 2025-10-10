@@ -39,7 +39,7 @@ handler.all = async function (m) {
     }
   }
 
-  global.creador = 'Wa.me/525544876071'
+  global.creador = 'Wa.me/51971285104'
   global.ofcbot = `${conn?.user?.jid?.split('@')[0] || ''}`
   global.asistencia = 'Wa.me/51971285104'
   global.namechannel = '⏤͟͟͞͞𝗦𝗵𝗶𝗻𝗼𝗯𝘂-𝗖𝗵𝗮𝗻𝗻𝗲𝗹 𝗢𝗳𝗶𝗰𝗶𝗮𝗹⏤͟͟͞͞❀'
