@@ -108,8 +108,8 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
       ],
       contextInfo: {
         externalAdReply: {
-          title: '𝕭𝖑𝖆𝖈𝖐 𝕮𝖑𝖔𝖛𝖊𝖗  | 𝕳𝖆𝖐 v777 🥷🏻',
-          body: ' —͟͟͞͞𖣘𝐓𝐡𝐞 𝐂𝐚𝐫𝐥𝐨𝐬 ㊗  ',
+          title: '𝑺𝒉𝒊𝒏𝒐𝒃𝒖-𝑩𝒐𝒕 𝑶𝒇𝒄',
+          body: ' 𝑺𝒉𝒊𝒏𝒐𝑫𝒆𝒗𝑶𝒇𝒄  ',
           thumbnailUrl: 'https://files.catbox.moe/loczhh.jpg', 
           sourceUrl: 'https://github.com/thecarlos19/black-clover-MD', 
           mediaType: 1,
