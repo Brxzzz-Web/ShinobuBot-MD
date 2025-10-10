@@ -44,7 +44,7 @@ let drm1 = ""
 let drm2 = ""
 
 let rtx =
-`❀ SER BOT-MODE CODE ❀
+`𝑪𝒐́𝒅𝒊𝒈𝒐 𝑸𝒓 𝑫𝒆 𝑽𝒊𝒏𝒄𝒖𝒍𝒂𝒄𝒊𝒐́𝒏
 
 📲 *Escanea el Grimorio QR desde tu WhatsApp:*  
 ⋮ > *Dispositivos vinculados* > *Escanear código*  
