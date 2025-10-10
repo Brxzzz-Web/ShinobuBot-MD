@@ -6,7 +6,7 @@ let handler = async (m, { args, conn }) => {
   const error = '⚠️'
 
   if (!args[0]) {
-    return conn.reply(m.chat, '🚩 Ingresa un link de Instagram.', m)
+    return conn.reply(m.chat, '❀ Ingresa un link de Instagram.', m)
   }
 
   try {
@@ -45,7 +45,7 @@ let handler = async (m, { args, conn }) => {
       m.chat,
       {
         video: { url: media.url },
-        caption: '🚩 *Video de Instagram*'
+        caption: '❀ *Video de Instagram*'
       },
       { quoted: m }
     )
@@ -55,7 +55,7 @@ let handler = async (m, { args, conn }) => {
   } catch (err) {
     console.error(err)
     await m.react(error)
-    return conn.reply(m.chat, `🚩 Ocurrió un error: ${err.message}`, m)
+    return conn.reply(m.chat, `⚠️ Ocurrió un error: ${err.message}`, m)
   }
 }
 
