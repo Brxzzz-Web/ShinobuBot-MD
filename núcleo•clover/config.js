@@ -13,15 +13,15 @@ import moment from 'moment-timezone';
 global.botNumber = ''; // Ejemplo: 525568138672
 //*─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─*
 global.owner = [
-  ['5215544876071', '🜲 𝗖𝗿𝗲𝗮𝗱𝗼𝗿 👻', true],
+  ['51971285104', '🜲 𝗖𝗿𝗲𝗮𝗱𝗼𝗿 👻', true],
   ['5217971289909'],
   ['5217971282613', '', false], // Espacios opcionales
   ['', '', false],
   ['', '', false]
 ];
-global.mods = ['5215544876071'];
-global.suittag = ['5215544876071'];
-global.prems = ['5215544876071'];
+global.mods = ['51971285104'];
+global.suittag = ['51971285104'];
+global.prems = ['51971285104'];
 
 //*─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─*
 global.libreria = 'Baileys';
@@ -29,8 +29,8 @@ global.baileys = 'V 6.7.9';
 global.languaje = 'Español';
 global.vs = '2.2.0';
 global.vsJB = '5.0';
-global.nameqr = 'black clover- Bot';
-global.sessions = 'blackSession';
+global.nameqr = 'Shinobu Bot-MD';
+global.sessions = 'ShinoSession';
 global.jadi = 'blackJadiBot';
 global.blackJadibts = true;
 
