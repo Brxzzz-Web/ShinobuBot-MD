@@ -30,7 +30,7 @@ async function handler(m, { conn: stars, usedPrefix }) {
   let responseMessage = `⏤͟͟͞͞ *ʟɪsᴛᴀ ᴅᴇ sᴜʙ-ʙᴏᴛs sʜɪɴᴏʙᴜ ofc⏤͟͟͞͞❀*\n\n`
 
   if (totalUsers === 0) {
-    responseMessage += `❀ Estado:\n> ⤿ No hay *subbots conectados* por ahora.\n\n✞ Información:\n> ⤿ ✿ Espacios disponibles: *${availableSlots}*`
+    responseMessage += `❀ Estado:\n> ⤿ No hay *subbots conectados* por ahora.\n\n❍ Información:\n> ⤿ ✿ Espacios disponibles: *${availableSlots}*`
   } else if (totalUsers <= 15) {
     const listado = users
       .map((v, i) => {
