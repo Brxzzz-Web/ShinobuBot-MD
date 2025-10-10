@@ -60,8 +60,8 @@ global.monedas = 'monedas';
 global.gp1 = 'https://chat.whatsapp.com/KdpLokuBZuKHx0DvNzuAes';
 global.gp2 = 'https://chat.whatsapp.com/KdpLokuBZuKHx0DvNzuAes';
 global.comunidad1 = 'https://chat.whatsapp.com/KdpLokuBZuKHx0DvNzuAes';
-global.channel = 'https://whatsapp.com/channel/0029Vb5l5w1CHDyjovjN8s2V';
-global.channel2 = 'https://whatsapp.com/channel/0029Vb5l5w1CHDyjovjN8s2V';
+global.channel = 'https://whatsapp.com/channel/0029VbBZ1gnBKfhsNcdWRj3h';
+global.channel2 = 'https://whatsapp.com/channel/0029VbBZ1gnBKfhsNcdWRj3h';
 global.cn = global.channel;
 global.yt = 'https://www.youtube.com/';
 global.md = 'https://github.com/';
@@ -90,7 +90,7 @@ global.estilo = {
   }
 };
 
-global.ch = { ch1: "120363401983007420@newsletter" };
+global.ch = { ch1: "120363403880334037@newsletter" };
 global.rcanal = global.ch.ch1;
 
 //*─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─*
