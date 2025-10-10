@@ -41,9 +41,9 @@ async function handler(m, { conn: stars, usedPrefix }) {
       })
       .join('\n\n')
 
-    responseMessage += `✞ Estado:\n> ⤿ 🔢 Total conectados: *${totalUsers}*\n> ⤿ 🟢 Espacios disponibles: *${availableSlots}*\n\n${listado}`
+    responseMessage += `❀ Estado:\n> ⤿ ❐ Total conectados: *${totalUsers}*\n> ⤿ ❍ Espacios disponibles: *${availableSlots}*\n\n${listado}`
   } else {
-    responseMessage += `✞ Estado:\n> ⤿ 🔢 Total conectados: *${totalUsers}*\n> ⤿ 🟢 Espacios disponibles: *${availableSlots}*\n\nᥫ᭡ Nota:\n> ⤿ Hay demasiados subbots conectados.\n> ⤿ _No se muestra la lista detallada._`
+    responseMessage += `❀ Estado:\n> ⤿ ❐ Total conectados: *${totalUsers}*\n> ⤿ ❍ Espacios disponibles: *${availableSlots}*\n\nᥫ᭡ Nota:\n> ⤿ Hay demasiados subbots conectados.\n> ⤿ _No se muestra la lista detallada._`
   }
 
   responseMessage += `\n\n❀ *sʜɪɴᴏᴅᴇᴠ:* sʜɪɴᴏʙᴜ-ᴏғᴄ ✿`
