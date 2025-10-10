@@ -269,7 +269,7 @@ export async function handler(chatUpdate) {
         premium: `*REQUIERE CUENTA PREMIUM*\n\n> 🚫 Módulo exclusivo para usuarios *𝙑𝙄𝙋 - 𝙋𝙍𝙀𝙈𝙄𝙐𝙈*.\n\n📡 Actualiza tu plan con: */vip*\n⚙️ Estado: denegado`,
         private: `🔒 *SOLO CHAT PRIVADO* 📲\n\n> Este comando no puede ejecutarse en grupos por razones de seguridad.\n\n🧬 Ejecuta este protocolo directamente en el chat privado.`,
         admin: `🛡️ *FUNCIÓN RESTRINGIDA*\n\n> Solo los administradores del *Grupo* tienen acceso.\n\n⚠️ Intento no autorizado.`,
-        unreg: `🧾 *NO REGISTRADO EN EL SISTEMA*\n\n> 🚫 *Acceso denegado:* No puedes usar los comandos sin registrarte.\n\n🔐 Regístrate con: */reg nombre.edad*\n❀ Ejemplo: */reg ShinoDev.21*\n\n> ❀* 𝑩𝒐𝒕 𝑶𝒇𝒊𝒄𝒊𝒂𝒍:* 𝑺𝑯𝑰𝑵𝑶𝑩𝑼-𝑩𝑶𝑻 𝑶𝑭𝑪\n\n❀ *𝑺𝒉𝒊𝒏𝒅𝒆𝒗-𝑶𝒇𝒄`,
+        unreg: `🧾 *NO REGISTRADO EN EL SISTEMA*\n\n> 🚫 *Acceso denegado:* No puedes usar los comandos sin registrarte.\n\n🔐 Regístrate con: */reg nombre.edad*\n❀ Ejemplo: */reg ShinoDev.21*\n\n> ❀* 𝑩𝒐𝒕 𝑶𝒇𝒊𝒄𝒊𝒂𝒍:* 𝑺𝑯𝑰𝑵𝑶𝑩𝑼-𝑩𝑶𝑻 𝑶𝑭𝑪\n\n❀* 𝑺𝒉𝒊𝒏𝒅𝒆𝒗-𝑶𝒇𝒄`,
         restrict: `🚷 *FUNCIÓN GLOBALMENTE BLOQUEADA*\n\n> Este comando fue deshabilitado por el *Operador Global* por motivos de seguridad cibernética.\n\n🔧 Módulo: /xvideos`
         }[type];
 if (msg) return m.reply(msg).then(_ => m.react('✖️'))}
