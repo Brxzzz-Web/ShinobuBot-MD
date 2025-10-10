@@ -44,8 +44,8 @@ handler.all = async function (m) {
   global.asistencia = 'Wa.me/51971285104'
   global.namechannel = '⏤͟͟͞͞𝗦𝗵𝗶𝗻𝗼𝗯𝘂-𝗖𝗵𝗮𝗻𝗻𝗲𝗹 𝗢𝗳𝗶𝗰𝗶𝗮𝗹⏤͟͟͞͞❀'
   global.namegrupo = ' 𝗦𝗵𝗶𝗻𝗼𝗯𝘂-𝗚𝗿𝘂𝗽𝗼 𝗢𝗳𝗰'
-  global.namecomu = '𝗖𝗼𝗺𝘂𝗻𝗶𝗱𝗮𝗱͟ 𝗦𝗵𝗶𝗻𝗼𝗯𝘂-𝗕𝗼𝘁 '
-  global.listo = '⚔️ *Aquí tienes perra*'
+  global.namecomu = '𝗖𝗼𝗺𝘂𝗻𝗶𝗱𝗮𝗱 𝗦𝗵𝗶𝗻𝗼𝗯𝘂-𝗕𝗼𝘁 '
+  global.listo = '❀ *Aquí Tienes ❀*'
 
   //Ids channel
   global.canalIdM = ["120363403880334037@newsletter", "120363403880334037@newsletter"]
@@ -117,7 +117,7 @@ handler.all = async function (m) {
     'https://files.catbox.moe/g3qjj6.png',
   ])
 
-  global.rcanal = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: channelRD.id, serverMessageId: 100, newsletterName: channelRD.name }, externalAdReply: { showAdAttribution: true, title: "𝕭𝖑𝖆𝖈𝖐 𝕮𝖑𝖔𝖛𝖊𝖗 ☘", body: "𝐓𝐇𝐄 𝐂𝐀𝐑𝐋𝐎𝐒", mediaUrl: null, description: null, previewType: "PHOTO", thumbnailUrl: icono, sourceUrl: redes, mediaType: 1, renderLargerThumbnail: false }, } }
+  global.rcanal = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: channelRD.id, serverMessageId: 100, newsletterName: channelRD.name }, externalAdReply: { showAdAttribution: true, title: "𝑺𝒉𝒊𝒏𝒐𝒃𝒖-𝑩𝒐𝒕", body: "𝑺𝒉𝒊𝒏𝒐𝒃𝒖 𝑶𝒇𝒄", mediaUrl: null, description: null, previewType: "PHOTO", thumbnailUrl: icono, sourceUrl: redes, mediaType: 1, renderLargerThumbnail: false }, } }
 
 }
 
