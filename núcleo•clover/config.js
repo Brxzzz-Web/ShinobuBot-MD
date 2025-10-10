@@ -57,15 +57,15 @@ global.namechannel = '=͟͟͞𝗡𝗲𝘇𝘂𝗸𝗼 - 𝗢𝗳𝗶𝗰𝗶𝗮
 global.monedas = 'monedas';
 
 //*─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─*
-global.gp1 = 'https://chat.whatsapp.com/IbADO35sBSC4G1FBTGbHIE?mode=ac_t';
-global.gp2 = 'https://chat.whatsapp.com/FiBcPMYEO7mG4m16gBbwpP?mode=ac_t';
-global.comunidad1 = 'https://chat.whatsapp.com/FgQ4q11AjaO8ddyc1LvK4r?mode=ac_t';
-global.channel = 'https://whatsapp.com/channel/0029Vai28FR7dmea9gytQm3w';
-global.channel2 = 'https://whatsapp.com/channel/0029VajUPbECxoB0cYovo60W';
+global.gp1 = 'https://chat.whatsapp.com/KdpLokuBZuKHx0DvNzuAes';
+global.gp2 = 'https://chat.whatsapp.com/KdpLokuBZuKHx0DvNzuAes';
+global.comunidad1 = 'https://chat.whatsapp.com/KdpLokuBZuKHx0DvNzuAes';
+global.channel = 'https://whatsapp.com/channel/0029Vb5l5w1CHDyjovjN8s2V';
+global.channel2 = 'https://whatsapp.com/channel/0029Vb5l5w1CHDyjovjN8s2V';
 global.cn = global.channel;
-global.yt = 'https://www.youtube.com/@ElCarlos.87';
-global.md = 'https://github.com/thecarlos19/black-clover-MD';
-global.correo = 'thecarlospcok@gmail.com';
+global.yt = 'https://www.youtube.com/';
+global.md = 'https://github.com/';
+global.correo = 'jxxlznexe@gmail.com';
 
 global.catalogo = fs.readFileSync(new URL('../src/catalogo.jpg', import.meta.url));
 global.photoSity = [global.catalogo];
@@ -90,7 +90,7 @@ global.estilo = {
   }
 };
 
-global.ch = { ch1: "120363307694217288@newsletter" };
+global.ch = { ch1: "120363401983007420@newsletter" };
 global.rcanal = global.ch.ch1;
 
 //*─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─✞─ׄ─ׅ─ׄ─*
