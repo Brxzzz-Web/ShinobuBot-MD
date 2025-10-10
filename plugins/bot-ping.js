@@ -38,7 +38,7 @@ var handler = async (m, { conn }) => {
         .filter(([jid, chat]) => jid.endsWith('@g.us') && chat.isChats && !chat.metadata?.read_only && !chat.metadata?.announce)
         .map(v => v[0])
 
-    let texto = `˚₊·—̳͟͞͞✞ *Ping del Bot*\n\n` +
+    let texto = `❀ *Ping del Bot ❀*\n\n` +
                 `✞ Velocidad:\n> ⤿ ${latensi.toFixed(4)} ms\n\n` +
                 `✞ Actividad:\n> ⤿ ${muptime}\n\n` +
                 `✞ Chats:\n> ⤿ ${chats.length} Chats privados\n> ⤿ ${groups.length} Grupos\n\n` +
