@@ -39,11 +39,11 @@ var handler = async (m, { conn }) => {
         .map(v => v[0])
 
     let texto = `❀ *Ping del Bot ❀*\n\n` +
-                `✞ Velocidad:\n> ⤿ ${latensi.toFixed(4)} ms\n\n` +
-                `✞ Actividad:\n> ⤿ ${muptime}\n\n` +
+                `❐ Velocidad:\n> ⤿ ${latensi.toFixed(4)} ms\n\n` +
+                `➣ Actividad:\n> ⤿ ${muptime}\n\n` +
                 `✞ Chats:\n> ⤿ ${chats.length} Chats privados\n> ⤿ ${groups.length} Grupos\n\n` +
-                `✞ Servidor:\n> ⤿ RAM: ${format(totalmem() - freemem())} / ${format(totalmem())}\n\n` +
-                `ᥫ᭡ Información en tiempo real`
+                `✧ Servidor:\n> ⤿ RAM: ${format(totalmem() - freemem())} / ${format(totalmem())}\n\n` +
+                `✿ Información en tiempo real`
 
     const thumbnailBuffer = getRandomImage()
 
