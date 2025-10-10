@@ -57,7 +57,7 @@ let rtx =
 let rtx2 =
 `˚₊·✞『 𝗕𝗹𝗮𝗰𝗸 𝗖𝗹𝗼𝘃𝗲𝗿 - 𝗦𝘂𝗯 𝗕𝗼𝘁 』✞·—̳͟͞͞₊˚  
  
-🜲 *Usa este Código Espiritual para convertirte en un ✧ Sub-Bot Temporal bajo el contrato del Reino de las Sombras.*  
+✰ *Usa este Código para convertirte en un *Sub-Bot* Temporal.*  
 
 ⏳ *Atención, Guerrero de las Sombras:* este vínculo es delicado.  
 ⚠️ *No uses tu cuenta principal, emplea una réplica espiritual o una forma secundaria.*  
