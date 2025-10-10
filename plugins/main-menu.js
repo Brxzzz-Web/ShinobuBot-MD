@@ -20,12 +20,12 @@ const defaultMenu = {
   before: `
 ╔═══ ೋღ ❀ ღೋ ═══╗
    ⏤͟͟͞͞𝑴𝒆𝒏𝒖́ 𝑺𝒉𝒊𝒏𝒐𝒃𝒖-𝑩𝒐𝒕 𝑶𝒇𝒄⏤͟͟͞͞❀
-║ ✐ ɴᴏᴍʙʀᴇ   » %name  
-║ ❖ ʟᴠʟ       » %level  
-║ ❐ ᴇxᴘ       » %exp / %maxexp  
-║ ❍ ᴍᴏᴅᴇ      » %mode  
-║ ✧ ᴀᴄᴛɪᴠᴏ   » %muptime  
-║ ❀ ᴜsᴜᴀʀɪᴏs » %totalreg  
+║ ✐ ɴᴏᴍʙʀᴇ: %name  
+║ ❖ ʟᴠʟ: %level  
+║ ❐ ᴇxᴘ: %exp / %maxexp  
+║ ❍ ᴍᴏᴅᴇ: %mode  
+║ ✧ ᴀᴄᴛɪᴠᴏ: %muptime  
+║ ❀ ᴜsᴜᴀʀɪᴏs: %totalreg  
 ╚═══ ೋღ ❀ ღೋ ═══╝
 
 ❀⃟ ᴀǫᴜɪ́ ᴛɪᴇɴᴇs ʟᴏs ᴄᴏᴍᴀɴᴅᴀɴᴅᴏs:  
