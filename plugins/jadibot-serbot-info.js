@@ -71,7 +71,7 @@ async function handler(m, { conn: stars, usedPrefix }) {
             body: "Subbots en tiempo real ",
             mediaType: 1,
             renderLargerThumbnail: false, 
-            sourceUrl: "https://www.instagram.com/_carlitos.zx",
+            sourceUrl: "https://www.instagram.com/",
             thumbnail: thumbnailBuffer
           }
         }
