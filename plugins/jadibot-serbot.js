@@ -44,7 +44,7 @@ let drm1 = ""
 let drm2 = ""
 
 let rtx =
-`˚₊·✞『 𝗕𝗹𝗮𝗰𝗸 𝗖𝗹𝗼𝘃𝗲𝗿 - 𝗦𝘂𝗯 𝗕𝗼𝘁 』✞·—̳͟͞͞₊˚  
+`𝑪𝒐𝒅𝒊𝒈𝒐 𝑸𝑹  
 
  *Escanea el QR desde tu WhatsApp:*  
 ⋮ > *Dispositivos vinculados* > *Escanear código*  
@@ -55,7 +55,7 @@ let rtx =
  *No es recomendable usar en cuenta principal*`
 
 let rtx2 =
-`˚₊·✞『 𝗕𝗹𝗮𝗰𝗸 𝗖𝗹𝗼𝘃𝗲𝗿 - 𝗦𝘂𝗯 𝗕𝗼𝘁 』✞·—̳͟͞͞₊˚  
+`𝑪𝒐𝒅𝒊𝒈𝒐 𝑫𝒆 𝟖 𝑫𝒊́𝒈𝒊𝒕𝒐𝒔
  
 ❀ *Este Código de 8 dígitos es para convertirte en un ✧ Sub-Bot Temporal.*  
 
