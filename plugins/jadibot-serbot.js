@@ -46,23 +46,23 @@ let drm2 = ""
 let rtx =
 `˚₊·✞『 𝗕𝗹𝗮𝗰𝗸 𝗖𝗹𝗼𝘃𝗲𝗿 - 𝗦𝘂𝗯 𝗕𝗼𝘁 』✞·—̳͟͞͞₊˚  
 
-📲 *Escanea el Grimorio QR desde tu WhatsApp:*  
+ *Escanea el QR desde tu WhatsApp:*  
 ⋮ > *Dispositivos vinculados* > *Escanear código*  
 
-⏳ *El sello mágico dura solo 45 segundos...* ⚔️  
+ *El QR dura solo 45 segundos...*  
 
-🔥 *Conviértete en un Sub-Bot Temporal y sirve al Reino Mágico*  
-🧿 *Tu energía quedará vinculada al Grimorio principal*`
+ *Conviértete en un Sub-Bot Temporal*  
+ *No es recomendable usar en cuenta principal*`
 
 let rtx2 =
 `˚₊·✞『 𝗕𝗹𝗮𝗰𝗸 𝗖𝗹𝗼𝘃𝗲𝗿 - 𝗦𝘂𝗯 𝗕𝗼𝘁 』✞·—̳͟͞͞₊˚  
  
-🜲 *Usa este Código Espiritual para convertirte en un ✧ Sub-Bot Temporal bajo el contrato del Reino de las Sombras.*  
+❀ *Este Código de 8 dígitos es para convertirte en un ✧ Sub-Bot Temporal.*  
 
-⏳ *Atención, Guerrero de las Sombras:* este vínculo es delicado.  
-⚠️ *No uses tu cuenta principal, emplea una réplica espiritual o una forma secundaria.*  
+❀ *Este código dura 45 segundos :* tienes que vincularlo antes que expire.  
+❀ *No es recomendable usar en cuenta principal.*  
 
-🧿 *SISTEMA ➤ [ CÓDIGO ACTIVO ] — Activa el vínculo cuando estés preparado* ⚔️`
+❀ *Tu código de vinculación es el siguiente* ❀`
 
 const maxSubBots = 500
 
