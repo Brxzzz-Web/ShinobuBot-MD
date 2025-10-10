@@ -98,7 +98,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
 
     // el mejor bot 
     await conn.sendMessage(m.chat, {
-      video: { url: 'https://files.catbox.moe/n7wh11.mp4' },
+      video: { url: 'https://files.catbox.moe/nesx6s.mp4' },
       caption: text,
       gifPlayback: true,
       footer: '❀ 𝑷𝒐𝒘𝒆𝒓𝒆𝒅 𝑩𝒚 𝑵𝒆𝒛𝒖𝒌𝒐 𝑶𝒇𝒄️ ❀',
