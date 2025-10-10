@@ -59,8 +59,8 @@ let rtx2 =
  
 ✰ *Usa este Código para convertirte en un *Sub-Bot* Temporal.*  
 
-⏳ *Atención, Guerrero de las Sombras:* este vínculo es delicado.  
-⚠️ *No uses tu cuenta principal, emplea una réplica espiritual o una forma secundaria.*  
+✿ *Este Código Solo Es Funcional Para El Número De Teléfono En El Que Solicitaste.*  
+✿ *No uses tu cuenta principal, emplea una réplica espiritual o una forma secundaria.*  
 
 🧿 *SISTEMA ➤ [ CÓDIGO ACTIVO ] — Activa el vínculo cuando estés preparado* ⚔️`
 
