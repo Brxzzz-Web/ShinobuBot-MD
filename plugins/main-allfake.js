@@ -41,15 +41,15 @@ handler.all = async function (m) {
 
   global.creador = 'Wa.me/525544876071'
   global.ofcbot = `${conn?.user?.jid?.split('@')[0] || ''}`
-  global.asistencia = 'Wa.me/525544876071'
+  global.asistencia = 'Wa.me/51971285104'
   global.namechannel = '⏤͟͟͞͞𝗦𝗵𝗶𝗻𝗼𝗯𝘂-𝗖𝗵𝗮𝗻𝗻𝗲𝗹 𝗢𝗳𝗶𝗰𝗶𝗮𝗹⏤͟͟͞͞❀'
-  global.namegrupo = ' 𝕭𝖑𝖆𝖈𝖐 𝕮𝖑𝖔𝖛𝖊𝖗 ☘︎'
-  global.namecomu = '𝗖𝗼𝗺𝘂𝗻𝗶𝗱𝗮𝗱 ⏤͟͞ 𝐓𝐇𝐄 𝐋𝐄𝐆𝐄𝐍𝐃𝐒 '
+  global.namegrupo = ' 𝗦𝗵𝗶𝗻𝗼𝗯𝘂-𝗚𝗿𝘂𝗽𝗼 𝗢𝗳𝗰'
+  global.namecomu = '𝗖𝗼𝗺𝘂𝗻𝗶𝗱𝗮𝗱͟ 𝗦𝗵𝗶𝗻𝗼𝗯𝘂-𝗕𝗼𝘁 '
   global.listo = '⚔️ *Aquí tienes perra*'
 
   //Ids channel
-  global.canalIdM = ["120363307694217288@newsletter", "120363307694217288@newsletter"]
-  global.canalNombreM = ["⏤͟͞㋡ 𝐓𝐇𝐄 𝐋𝐄𝐆𝐄𝐍𝐃𝐒 ", "㋡ 𝐓𝐇𝐄 𝐋𝐄𝐆𝐄𝐍𝐃𝐒 "]
+  global.canalIdM = ["120363403880334037@newsletter", "120363403880334037@newsletter"]
+  global.canalNombreM = ["⏤͟͟͞͞𝗦𝗵𝗶𝗻𝗼𝗯𝘂-𝗖𝗵𝗮𝗻𝗻𝗲𝗹 𝗢𝗳𝗶𝗰𝗶𝗮𝗹⏤͟͟͞͞❀ ", "⏤͟͟͞͞𝗦𝗵𝗶𝗻𝗼𝗯𝘂-𝗖𝗵𝗮𝗻𝗻𝗲𝗹 𝗢𝗳𝗶𝗰𝗶𝗮𝗹⏤͟͟͞͞❀ "]
   global.idchannel = canalIdM[0]
   global.channelRD = await getRandomChannel()
 
@@ -74,12 +74,12 @@ handler.all = async function (m) {
   global.emojis = pickRandom([global.emoji, global.emoji2, global.emoji3, global.emoji4])
 
   //Enlaces
-  var canal = 'https://whatsapp.com/channel/0029Vai28FR7dmea9gytQm3w'  
-  let canal2 = 'https://whatsapp.com/channel/0029Vai28FR7dmea9gytQm3w'
-  var git = 'https://github.com/thecarlos19' 
+  var canal = 'https://whatsapp.com/channel/0029VbBZ1gnBKfhsNcdWRj3h'  
+  let canal2 = 'https://whatsapp.com/channel/0029VbBZ1gnBKfhsNcdWRj3h'
+  var git = 'https://github.com/' 
   var youtube = '' 
-  var github = 'https://github.com/thecarlos19/black-clover-MD' 
-  let correo = 'carloscristobal30@gmail.com'
+  var github = 'https://github.com/' 
+  let correo = 'jxxlznexe@gmail.com'
   global.redes = pickRandom([canal, git, github, correo])
 
   let category = "imagen"
