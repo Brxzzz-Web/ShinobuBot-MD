@@ -52,7 +52,7 @@ global.botname = '⏤͟͟͞͞sʜɪɴᴏʙᴜ-ʙᴏᴛ ᴏғᴄ⏤͟͟͞͞❀'
 global.dev = '© ᴘᴏᴡᴇʀᴇᴅ ʙʏ sʜɪɴᴏʙᴜ ᴏғᴄ ❀'
 global.textbot = 'sʜɪɴᴏʙᴜ, ᴍᴀᴅᴇ ᴡʜɪᴛᴇ ʙʏ sʜɪɴᴏʙᴜ-ᴏғᴄ'
 global.gt = '𝑺𝒉𝒊𝒏𝒐𝒃𝒖-𝒐𝒇𝒄';
-global.namechannel = '𝑩𝑳𝑨𝑪𝑲 𝑪𝑳𝑶𝑽𝑬𝑹 / 𝐓𝐇𝐄 𝐂𝐀𝐑𝐋𝐎𝐒'
+global.namechannel = '=͟͟͞𝗡𝗲𝘇𝘂𝗸𝗼 - 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 𝗖𝗵𝗮𝗻𝗻𝗲𝗹⏤͟͟͞͞★'
 // Moneda interna
 global.monedas = 'monedas';
 
