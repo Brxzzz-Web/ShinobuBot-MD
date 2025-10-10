@@ -27,7 +27,7 @@ async function handler(m, { conn: stars, usedPrefix }) {
   const totalUsers = users.length
   const availableSlots = Math.max(0, maxSubBots - totalUsers)
 
-  let responseMessage = `˚₊·—̳͟͞͞✞ *Subbots Black-clover-MD 🥷🏻*\n\n`
+  let responseMessage = `⏤͟͟͞͞ *ʟɪsᴛᴀ ᴅᴇ sᴜʙ-ʙᴏᴛs sʜɪɴᴏʙᴜ ofc⏤͟͟͞͞❀*\n\n`
 
   if (totalUsers === 0) {
     responseMessage += `❀ Estado:\n> ⤿ No hay *subbots conectados* por ahora.\n\n✞ Información:\n> ⤿ ✿ Espacios disponibles: *${availableSlots}*`
