@@ -110,7 +110,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
         externalAdReply: {
           title: '𝑺𝒉𝒊𝒏𝒐𝒃𝒖-𝑩𝒐𝒕 𝑶𝒇𝒄',
           body: ' 𝑺𝒉𝒊𝒏𝒐𝑫𝒆𝒗𝑶𝒇𝒄  ',
-          thumbnailUrl: 'https://files.catbox.moe/loczhh.jpg', 
+          thumbnailUrl: 'https://files.catbox.moe/43ulpz.jpg', 
           sourceUrl: 'https://github.com/thecarlos19/black-clover-MD', 
           mediaType: 1,
           renderLargerThumbnail: true
