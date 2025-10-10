@@ -19,12 +19,12 @@ let tags = {
 const defaultMenu = {
   before: `
 ⏤͟͟͞͞𝑴𝒆𝒏𝒖́ 𝑺𝒉𝒊𝒏𝒐𝒃𝒖-𝑩𝒐𝒕 𝑶𝒇𝒄⏤͟͟͞͞❀
-│ 🪐 𝙉𝙤𝙢𝙗𝙧𝙚   » %name  
-│ ⚙️ 𝙇𝙫𝙡       » %level  
-│ ⚡ 𝙀𝙭𝙥       » %exp / %maxexp  
-│ 🌐 𝙈𝙤𝙙𝙚      » %mode  
-│ ⏳ 𝘼𝙘𝙩𝙞𝙫𝙤   » %muptime  
-│ 👥 𝙐𝙨𝙪𝙖𝙧𝙞𝙤𝙨 » %totalreg  
+║ 🪐 𝙉𝙤𝙢𝙗𝙧𝙚   » %name  
+║ ⚙️ 𝙇𝙫𝙡       » %level  
+║ ⚡ 𝙀𝙭𝙥       » %exp / %maxexp  
+║ 🌐 𝙈𝙤𝙙𝙚      » %mode  
+║ ⏳ 𝘼𝙘𝙩𝙞𝙫𝙤   » %muptime  
+║ 👥 𝙐𝙨𝙪𝙖𝙧𝙞𝙤𝙨 » %totalreg  
 ★━━━━━━━━━━━━━━━━━★
 
 ❀⃟ ᴀǫᴜɪ́ ᴛɪᴇɴᴇs ʟᴏs ᴄᴏᴍᴀɴᴅᴀɴᴅᴏs:  
