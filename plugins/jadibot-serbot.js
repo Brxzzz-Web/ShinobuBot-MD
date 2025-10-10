@@ -44,7 +44,7 @@ let drm1 = ""
 let drm2 = ""
 
 let rtx =
-`˚₊·✞『 𝗕𝗹𝗮𝗰𝗸 𝗖𝗹𝗼𝘃𝗲𝗿 - 𝗦𝘂𝗯 𝗕𝗼𝘁 』✞·—̳͟͞͞₊˚  
+`❀ SER BOT-MODE CODE ❀
 
 📲 *Escanea el Grimorio QR desde tu WhatsApp:*  
 ⋮ > *Dispositivos vinculados* > *Escanear código*  
