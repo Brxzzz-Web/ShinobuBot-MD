@@ -101,10 +101,10 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
       video: { url: 'https://files.catbox.moe/n7wh11.mp4' },
       caption: text,
       gifPlayback: true,
-      footer: '🧠 BLACK CLOVER SYSTEM ☘️',
+      footer: '❀ 𝑷𝒐𝒘𝒆𝒓𝒆𝒅 𝑩𝒚 𝑵𝒆𝒛𝒖𝒌𝒐 𝑶𝒇𝒄️ ❀',
       buttons: [
-        { buttonId: `${_p}menurpg`, buttonText: { displayText: '🏛️ M E N U R P G' }, type: 1 },
-        { buttonId: `${_p}code`, buttonText: { displayText: '🕹 ＳＥＲＢＯＴ' }, type: 1 }
+        { buttonId: `${_p}menurpg`, buttonText: { displayText: '➣ M E N U R P G' }, type: 1 },
+        { buttonId: `${_p}code`, buttonText: { displayText: '➣ ＳＥＲＢＯＴ' }, type: 1 }
       ],
       contextInfo: {
         externalAdReply: {
