@@ -45,7 +45,7 @@ export async function before(m, { conn }) {
     `⚠ Comando desconocido.`,
     `✖ Instrucción no reconocida.`,
     `⚠ Entrada inválida.`,
-    `✖ Comando rechazado.`,
+    `✖ El comando no existe.`,
     `🚫 No se permite:`,
     `🔍 No detectado en el sistema:`,
     `❌ Error de sintaxis:`
