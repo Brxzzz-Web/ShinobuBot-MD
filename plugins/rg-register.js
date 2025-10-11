@@ -47,10 +47,10 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
     `📡 *Sincronizando tu maná con el grimorio ancestral...*`,
     `🕯️ *Detectando afinidad mágica...*`,
     `⚔️ *¡Vínculo con el grimorio establecido exitosamente!*`,
-    `🗿 *Registro completado, ${name.toUpperCase()} del Reino ${country}.*\n\n${grimorioColor}\n🌌 Afinidad: ${afinidad}\n💠 Nivel Mágico: ${nivelMagico}`
+    `🗿 *Registro completado, ${name.toUpperCase()} del Reino ${country}.*\n\n${grimorioColor}\n🌌 Afinidad: ${afinidad}\n❖ Nivel Mágico: ${nivelMagico}`
   ]
 
-  const { key } = await conn.sendMessage(m.chat, { text: '🔄 Iniciando registro mágico...' }, { quoted: m })
+  const { key } = await conn.sendMessage(m.chat, { text: '❀ Cargando registro' }, { quoted: m })
   for (let i = 0; i < frases.length; i++) {
     await delay(1500)
     await conn.sendMessage(m.chat, { text: frases[i], edit: key })
