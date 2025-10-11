@@ -25,7 +25,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
   // Datos aleatorios
   const generos = ['Masculino', 'Femenino']
   const paises = ['Bot', 'Bot', 'Bot', 'Bot']
-  const afinidades = ['🔥 Fuego', '💧 Agua', '🌪️ Viento', '🌱 Tierra', '⚡ Rayo', '🌑 Oscuridad', '🌞 Luz']
+  const afinidades = ['Exitoso', 'Exitoso', 'Exitoso', 'Exitoso', 'Exitoso', 'Exitoso', 'Exitoso']
   const gender = generos[Math.floor(Math.random() * generos.length)]
   const country = paises[Math.floor(Math.random() * paises.length)]
   const afinidad = afinidades[Math.floor(Math.random() * afinidades.length)]
@@ -47,7 +47,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
     `📡 *Sincronizando tu maná con el grimorio ancestral...*`,
     `🕯️ *Detectando afinidad mágica...*`,
     `⚔️ *¡Vínculo con el grimorio establecido exitosamente!*`,
-    `🗿 *Registro completado, ${name.toUpperCase()} Soy Shinobu ${country}.*\n\n${grimorioColor}\n🌌 Afinidad: ${afinidad}\n❖ Nivel: ${nivelMagico}`
+    `🗿 *Registro completado, ${name.toUpperCase()} Soy Shinobu ${country}.*\n\n${grimorioColor}\n❐ Registro: ${afinidad}\n❖ Nivel: ${nivelMagico}`
   ]
 
   const { key } = await conn.sendMessage(m.chat, { text: '❀ Cargando registro' }, { quoted: m })
