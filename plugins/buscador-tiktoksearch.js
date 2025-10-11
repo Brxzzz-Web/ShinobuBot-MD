@@ -78,7 +78,7 @@ let handler = async (message, { conn, text, usedPrefix, command }) => {
           },
           interactiveMessage: proto.Message.InteractiveMessage.fromObject({
             body: proto.Message.InteractiveMessage.Body.create({
-              text: "🥷🏻 RESULTADO DE: " + text
+              text: "❀ 𝖱𝖾𝗌𝗎𝗅𝗍𝖺𝖽𝗈 𝖣𝖾: " + text
             }),
             footer: proto.Message.InteractiveMessage.Footer.create({
               text: dev
