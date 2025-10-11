@@ -5,7 +5,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
   const user = global.db.data.users[m.sender]
 
   if (user.registered === true) {
-    return conn.sendMessage(m.chat, { text: `⚠️ Ya estás registrado.\n\nUsa *${usedPrefix}perfil* para ver tus datos.` }, { quoted: m })
+    return conn.sendMessage(m.chat, { text: `⚠️ Ya estás registrado.\n\nUsa *${usedPrefix}perfil* para ver tu información.` }, { quoted: m })
   }
 
   const regex = /^([a-zA-ZÀ-ÿñÑ\s]+)\.(\d{1,2})$/i
