@@ -30,7 +30,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
   const country = paises[Math.floor(Math.random() * paises.length)]
   const afinidad = afinidades[Math.floor(Math.random() * afinidades.length)]
   const nivelMagico = Math.floor(Math.random() * 10) + 1
-  const grimorioColor = gender === 'Masculino' ? '📕 Grimorio Carmesí' : '📘 Grimorio Índigo'
+  const grimorioColor = gender === 'Masculino' ? '❀ Hombre/Mujer' : '❀ Mujer/Hombre'
 
   // Guardar datos
   user.name = name.trim()
