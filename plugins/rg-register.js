@@ -5,13 +5,13 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
   const user = global.db.data.users[m.sender]
 
   if (user.registered === true) {
-    return conn.sendMessage(m.chat, { text: `⚠️ Ya estás registrado, guerrero del Reino.\n\nUsa *${usedPrefix}perfil* para ver tu grimorio.` }, { quoted: m })
+    return conn.sendMessage(m.chat, { text: `⚠️ Ya estás registrado.\n\nUsa *${usedPrefix}perfil* para ver tus datos.` }, { quoted: m })
   }
 
   const regex = /^([a-zA-ZÀ-ÿñÑ\s]+)\.(\d{1,2})$/i
   if (!regex.test(text)) {
     return conn.sendMessage(m.chat, {
-      text: `⚠️ Formato incorrecto. Usa:\n*${usedPrefix + command} Nombre.Edad*\n\nEjemplo:\n*${usedPrefix + command} Asta.18*`
+      text: `⚠️ Formato incorrecto. Usa:\n*${usedPrefix + command} Nombre.Edad*\n\nEjemplo:\n*${usedPrefix + command} Shinobu.21*`
     }, { quoted: m })
   }
 
@@ -47,7 +47,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
     `📡 *Sincronizando tu maná con el grimorio ancestral...*`,
     `🕯️ *Detectando afinidad mágica...*`,
     `⚔️ *¡Vínculo con el grimorio establecido exitosamente!*`,
-    `🗿 *Registro completado, ${name.toUpperCase()} del Reino ${country}.*\n\n${grimorioColor}\n🌌 Afinidad: ${afinidad}\n❖ Nivel: ${nivelMagico}`
+    `🗿 *Registro completado, ${name.toUpperCase()} Soy Shinobu ${country}.*\n\n${grimorioColor}\n🌌 Afinidad: ${afinidad}\n❖ Nivel: ${nivelMagico}`
   ]
 
   const { key } = await conn.sendMessage(m.chat, { text: '❀ Cargando registro' }, { quoted: m })
