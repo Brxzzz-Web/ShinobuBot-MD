@@ -151,7 +151,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
     }
 
     const caption = `
-╭╌╌〔 *❀ 𝑫𝑬𝑺𝑪𝑨𝑹𝑮𝑨 - 𝑴𝑷𝟦 ❀* 〕╌╌╮
+╭╌╌『 *❀ 𝑫𝑬𝑺𝑪𝑨𝑹𝑮𝑨 - 𝑴𝑷𝟦 ❀* 』╌╌╮
 ┃ ❀ *Título:* ${title}
 ┃ ❐ *Tamaño:* ${formatSize(size)}
 ┃ ✐ *URL:* ${text}
