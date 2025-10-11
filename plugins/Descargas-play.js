@@ -13,7 +13,7 @@ const handler = async (m, { conn, text, usedPrefix, command }) => {
     throw '❀ No se encontraron resultados para tu búsqueda. Intenta con otro título.';
   }
 
-  const body = `\`\`\`𝑫𝑬𝑺𝑪𝑨𝑹𝑮𝑨𝑺 𝑷𝑳𝑨𝒀⏤͟͟͞͞❀
+  const body = `𝑫𝑬𝑺𝑪𝑨𝑹𝑮𝑨𝑺 𝑷𝑳𝑨𝒀⏤͟͟͞͞❀
   
 Elige una de las opciones para descargar:
 🎧 *Audio* o 📽️ *Video*
