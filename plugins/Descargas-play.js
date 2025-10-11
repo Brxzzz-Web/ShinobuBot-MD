@@ -2,7 +2,7 @@ import yts from 'yt-search';
 
 const handler = async (m, { conn, text, usedPrefix, command }) => {
   if (!text) {
-    throw `❗ Por favor ingresa un texto para buscar.\nEjemplo: ${usedPrefix + command} Nombre del video`;
+    throw `❀ Por favor ingresa un texto para buscar.\nEjemplo: ${usedPrefix + command} Nombre del video`;
   }
 
   
@@ -10,7 +10,7 @@ const handler = async (m, { conn, text, usedPrefix, command }) => {
   const videoInfo = search.all?.[0];
 
   if (!videoInfo) {
-    throw '❗ No se encontraron resultados para tu búsqueda. Intenta con otro título.';
+    throw '❀ No se encontraron resultados para tu búsqueda. Intenta con otro título.';
   }
 
   const body = `\`\`\`El mejor bot de WhatsApp ⚔️
