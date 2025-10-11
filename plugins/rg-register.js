@@ -24,7 +24,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
 
   // Datos aleatorios
   const generos = ['Masculino', 'Femenino']
-  const paises = ['Kocho', 'Kocho', 'Kocho', 'Kocho']
+  const paises = ['Bot', 'Bot', 'Bot', 'Bot']
   const afinidades = ['🔥 Fuego', '💧 Agua', '🌪️ Viento', '🌱 Tierra', '⚡ Rayo', '🌑 Oscuridad', '🌞 Luz']
   const gender = generos[Math.floor(Math.random() * generos.length)]
   const country = paises[Math.floor(Math.random() * paises.length)]
