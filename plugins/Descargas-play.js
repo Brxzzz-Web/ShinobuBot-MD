@@ -24,7 +24,7 @@ Elige una de las opciones para descargar:
     {
       image: { url: videoInfo.thumbnail },
       caption: body,
-      footer: `sʜɪɴᴏʙᴜ-ʙᴏᴛ ᴏғᴄ`,
+      footer: `⏤͟͟͞͞sʜɪɴᴏʙᴜ-ʙᴏᴛ ᴏғᴄ⏤͟͟͞͞❀`,
       buttons: [
       { buttonId: `.ytmp3 ${videoInfo.url}`, buttonText: { displayText: '🎧 Audio' } },
         { buttonId: `.ytmp4 ${videoInfo.url}`, buttonText: { displayText: '📽️ Video' } },
