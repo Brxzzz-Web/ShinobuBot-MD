@@ -45,7 +45,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
   // ANIMACIÓN 
   const frases = [
     `❀ *Verificando Registro*`,
-    `❀ *en proceso*`,
+    `❀ *En proceso*`,
     `❀ *Registró Éxitoso*`,
     `❀ *Registro completado, ${name.toUpperCase()} Soy Shinobu ${country}.*\n\n${grimorioColor}\n❐ Registro: ${afinidad}\n❖ Nivel: ${nivelMagico}`
   ]
