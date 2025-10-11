@@ -151,10 +151,10 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
     }
 
     const caption = `
-╭╌╌〔 *🕶️ DESCARGAS BLACK - MP4* 〕╌╌╮
-┃ 🧿 *Título:* ${title}
-┃ 📦 *Tamaño:* ${formatSize(size)}
-┃ 🔗 *URL:* ${text}
+╭╌╌〔 *❀ 𝑫𝑬𝑺𝑪𝑨𝑹𝑮𝑨 - 𝑴𝑷𝟦 ❀* 〕╌╌╮
+┃ ❀ *Título:* ${title}
+┃ ❐ *Tamaño:* ${formatSize(size)}
+┃ ✐ *URL:* ${text}
 ╰╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╌╯`.trim();
 
     const buffer = await fetch(url).then(res => res.buffer());
