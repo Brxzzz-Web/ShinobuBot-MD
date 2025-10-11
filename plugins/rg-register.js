@@ -44,10 +44,10 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
 
   // ANIMACIÓN 
   const frases = [
-    `📡 *Sincronizando tu maná con el grimorio ancestral...*`,
-    `🕯️ *Detectando afinidad mágica...*`,
-    `⚔️ *¡Vínculo con el grimorio establecido exitosamente!*`,
-    `🗿 *Registro completado, ${name.toUpperCase()} Soy Shinobu ${country}.*\n\n${grimorioColor}\n❐ Registro: ${afinidad}\n❖ Nivel: ${nivelMagico}`
+    `❀ *Sincronizando tu maná con el grimorio ancestral...*`,
+    `❀ *en proceso*`,
+    `❀ *Registró Éxitoso*`,
+    `❀ *Registro completado, ${name.toUpperCase()} Soy Shinobu ${country}.*\n\n${grimorioColor}\n❐ Registro: ${afinidad}\n❖ Nivel: ${nivelMagico}`
   ]
 
   const { key } = await conn.sendMessage(m.chat, { text: '❀ Cargando registro' }, { quoted: m })
