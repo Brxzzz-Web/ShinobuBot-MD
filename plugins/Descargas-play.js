@@ -13,7 +13,7 @@ const handler = async (m, { conn, text, usedPrefix, command }) => {
     throw '❀ No se encontraron resultados para tu búsqueda. Intenta con otro título.';
   }
 
-  const body = `\`\`\`El mejor bot de WhatsApp ⚔️
+  const body = `\`\`\`𝑫𝑬𝑺𝑪𝑨𝑹𝑮𝑨𝑺 𝑷𝑳𝑨𝒀⏤͟͟͞͞❀
   
 Elige una de las opciones para descargar:
 🎧 *Audio* o 📽️ *Video*
@@ -24,7 +24,7 @@ Elige una de las opciones para descargar:
     {
       image: { url: videoInfo.thumbnail },
       caption: body,
-      footer: `𝕭𝖑𝖆𝖈𝖐 𝕮𝖑𝖔𝖛𝖊𝖗 ☘︎| ⚔️🥷`,
+      footer: `sʜɪɴᴏʙᴜ-ʙᴏᴛ ᴏғᴄ`,
       buttons: [
       { buttonId: `.ytmp3 ${videoInfo.url}`, buttonText: { displayText: '🎧 Audio' } },
         { buttonId: `.ytmp4 ${videoInfo.url}`, buttonText: { displayText: '📽️ Video' } },
