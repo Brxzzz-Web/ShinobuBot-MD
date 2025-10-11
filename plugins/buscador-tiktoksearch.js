@@ -10,11 +10,11 @@ const {
 let handler = async (message, { conn, text, usedPrefix, command }) => {
   // VARIABLES DEFINIDAS
   const avatar = 'https://qu.ax/XKFEL.jpg'; 
-  const dev = 'Black Clover MD'; 
+  const dev = '𝑺𝒉𝒊𝒏𝒐𝒃𝒖-𝑩𝒐𝒕 𝑶𝒇𝒄'; 
   const redes = 'https://tusitio.com'; 
 
   if (!text) {
-    return conn.reply(message.chat, "🥷🏻 Por favor, ingrese un texto para realizar una búsqueda en TikTok.", message);
+    return conn.reply(message.chat, "❀ Por favor, ingrese un texto para realizar una búsqueda en TikTok.", message);
   }
 
   async function createVideoMessage(url) {
